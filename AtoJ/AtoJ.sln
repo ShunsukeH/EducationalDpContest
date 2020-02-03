@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B", "B\B.csproj", "{307B3D4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C", "C\C.csproj", "{3C00EC28-A63E-4944-BB50-E808C2390E9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D", "D\D.csproj", "{F015BC51-EEE3-47C7-903B-C4BD763B9CCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -25,5 +27,9 @@ Global
 		{3C00EC28-A63E-4944-BB50-E808C2390E9E}.Debug|anycpu.Build.0 = Debug|anycpu
 		{3C00EC28-A63E-4944-BB50-E808C2390E9E}.Release|anycpu.ActiveCfg = Release|anycpu
 		{3C00EC28-A63E-4944-BB50-E808C2390E9E}.Release|anycpu.Build.0 = Release|anycpu
+		{F015BC51-EEE3-47C7-903B-C4BD763B9CCD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F015BC51-EEE3-47C7-903B-C4BD763B9CCD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F015BC51-EEE3-47C7-903B-C4BD763B9CCD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F015BC51-EEE3-47C7-903B-C4BD763B9CCD}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
